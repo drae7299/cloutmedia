@@ -32,11 +32,10 @@ This app does not currently have a way to test it.
 
 
 ## Contributing
-* Andre Rodriguez - Github: [drae7299](https://www.github.com/drae7299)
-* Jordyn Mancini - Github: [jordynnmancini](https://www.github.com/jordynnmancini)
-* Michael O'Connor - Github: [oconnor97](https://github.com/oconnor97)
-* Reagan Rogers - Github: [rrogers422](https://github.com/rrogers422)
-* Sarehon Taylor - Github: [SarehonTaylor](https://github.com/SarehonTaylor)
+* Andre Rodriguez - UI/UX - Github: [drae7299](https://www.github.com/drae7299)
+* Jordyn Mancini - Route/modals- Github: [jordynnmancini](https://www.github.com/jordynnmancini)
+* Michael O'Connor - Backend Routes/forms - Github: [oconnor97](https://github.com/oconnor97)
+* Sarehon Taylor - Frontend UI - Github: [SarehonTaylor](https://github.com/SarehonTaylor)
 
 Reach out via Github if you have questions! 
 
